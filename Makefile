@@ -5,4 +5,4 @@ brain-games:
 		node bin/brain-games.js
 
 publish:
-		nom publish --dry-run
+		npm publish --dry-run
